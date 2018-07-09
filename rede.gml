@@ -8,1732 +8,2687 @@ graph
 	node
 	[
 		id	0
-		label	"M1"
+		label	"Cluster 1 (7)"
 		graphics
 		[
-			x	0.0
-			y	0.0
-			w	30.0
-			h	30.0
-			type	"rectangle"
-			raisedBorder	0
-			fill	"#FFCC00"
+			x	667.861894172014
+			y	271.23340942352445
+			w	319.17843228262586
+			h	301.3531088696436
+			type	"roundrectangle"
+			fill	"#F5F5F5"
 			outline	"#000000"
+			outlineStyle	"dashed"
+			topBorderInset	0.0
+			bottomBorderInset	0.0
+			leftBorderInset	0.0
+			rightBorderInset	0.0
 		]
 		LabelGraphics
 		[
-			text	"M1"
-			fontSize	12
+			text	"Cluster 1 (7)"
+			fill	"#BF0404"
+			fontSize	15
 			fontName	"Dialog"
-			model	"null"
+			alignment	"right"
+			autoSizePolicy	"node_width"
+			anchor	"t"
+			borderDistance	0.0
 		]
+		isGroup	1
 	]
 	node
 	[
 		id	1
-		label	"M2"
+		label	"ALUMINI"
 		graphics
 		[
-			x	1499.0
-			y	0.0
+			x	550.3156467807011
+			y	391.90996385834626
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#BF0404"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M2"
+			text	"ALUMINI"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	0
 	]
 	node
 	[
 		id	2
-		label	"M3"
+		label	"GDK"
 		graphics
 		[
-			x	749.5
-			y	929.0
+			x	727.4157858255966
+			y	172.0177924887026
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#BF0404"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M3"
+			text	"GDK"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	0
 	]
 	node
 	[
 		id	3
-		label	"M4"
+		label	"IESA"
 		graphics
 		[
-			x	1080.4815619084475
-			y	238.56907128339924
+			x	635.2602613730752
+			y	201.96093750000009
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#BF0404"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M4"
+			text	"IESA"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	0
 	]
 	node
 	[
 		id	4
-		label	"M5"
+		label	"PETROBR&#xc1;S"
 		graphics
 		[
-			x	913.7692217146581
-			y	423.68325372260574
+			x	701.9446253171342
+			y	250.40996385834623
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#BF0404"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M5"
+			text	"PETROBR&#xc1;S"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	0
 	]
 	node
 	[
 		id	5
-		label	"M6"
+		label	"PROMON"
 		graphics
 		[
-			x	953.5359702344336
-			y	82.34088757063246
+			x	635.2602613730752
+			y	298.8589902166923
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#BF0404"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M6"
+			text	"PROMON"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	0
 	]
 	node
 	[
 		id	6
-		label	"M7"
+		label	"SKANSKA"
 		graphics
 		[
-			x	697.1348089170141
-			y	701.1557867304656
+			x	727.4157858255966
+			y	328.80213522798977
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#BF0404"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M7"
+			text	"SKANSKA"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	0
 	]
 	node
 	[
 		id	7
-		label	"M8"
+		label	"TECHINT"
 		graphics
 		[
-			x	340.02952035402654
-			y	281.2237255453162
+			x	784.3710321883269
+			y	250.40996385834623
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#BF0404"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M8"
+			text	"TECHINT"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	0
 	]
 	node
 	[
 		id	8
-		label	"M9"
+		label	"Cluster 2 (40)"
 		graphics
 		[
-			x	153.4249441837678
-			y	40.355223993311796
-			w	30.0
-			h	30.0
-			type	"rectangle"
-			raisedBorder	0
-			fill	"#FFCC00"
+			x	131.82400530608214
+			y	247.0716664779897
+			w	463.4052734375
+			h	433.4609375
+			type	"roundrectangle"
+			fill	"#F5F5F5"
 			outline	"#000000"
+			outlineStyle	"dashed"
+			topBorderInset	0.0
+			bottomBorderInset	0.0
+			leftBorderInset	0.0
+			rightBorderInset	0.0
 		]
 		LabelGraphics
 		[
-			text	"M9"
-			fontSize	12
+			text	"Cluster 2 (40)"
+			fill	"#009EFF"
+			fontSize	15
 			fontName	"Dialog"
-			model	"null"
+			alignment	"right"
+			autoSizePolicy	"node_width"
+			anchor	"t"
+			borderDistance	0.0
 		]
+		isGroup	1
 	]
 	node
 	[
 		id	9
-		label	"M10"
+		label	"ANDRADE GUTIERREZ"
 		graphics
 		[
-			x	833.0135163653568
-			y	164.8633802227189
+			x	129.29031389983214
+			y	251.8021352279897
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#009EFF"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M10"
+			text	"ANDRADE GUTIERREZ"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	8
 	]
 	node
 	[
 		id	10
-		label	"M11"
+		label	"BNDES"
 		graphics
 		[
-			x	371.01189617858023
-			y	335.6332755005275
+			x	53.29031389983214
+			y	191.8021352279897
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#009EFF"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M11"
+			text	"BNDES"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	8
 	]
 	node
 	[
 		id	11
-		label	"M12"
+		label	"CADE"
 		graphics
 		[
-			x	1026.6633318714676
-			y	481.17820266480715
+			x	88.29031389983214
+			y	188.8021352279897
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#009EFF"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M12"
+			text	"CADE"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	8
 	]
 	node
 	[
 		id	12
-		label	"M13"
+		label	"CAMARGO CORREA"
 		graphics
 		[
-			x	1390.8539495937698
-			y	60.92838879424232
+			x	-24.709686100167858
+			y	200.8021352279897
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#009EFF"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M13"
+			text	"CAMARGO CORREA"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	8
 	]
 	node
 	[
 		id	13
-		label	"M14"
+		label	"COESA"
 		graphics
 		[
-			x	929.4203700162302
-			y	271.55983176385166
+			x	-28.709686100167858
+			y	261.8021352279897
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#009EFF"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M14"
+			text	"COESA"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	8
 	]
 	node
 	[
 		id	14
-		label	"M16"
+		label	"DEM"
 		graphics
 		[
-			x	877.1503133463792
-			y	450.44533858518827
+			x	66.29031389983214
+			y	224.8021352279897
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#009EFF"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M16"
+			text	"DEM"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	8
 	]
 	node
 	[
 		id	15
-		label	"M16"
+		label	"ENGEVIX"
 		graphics
 		[
-			x	624.1320641176927
-			y	-65.9460219927501
+			x	84.29031389983214
+			y	255.8021352279897
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#009EFF"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M16"
+			text	"ENGEVIX"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	8
 	]
 	node
 	[
 		id	16
-		label	"M17"
+		label	"MENDES JUNIOR"
 		graphics
 		[
-			x	925.2808038852797
-			y	532.8952297230228
+			x	8.290313899832142
+			y	133.8021352279897
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#009EFF"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M17"
+			text	"MENDES JUNIOR"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	8
 	]
 	node
 	[
 		id	17
-		label	"C"
+		label	"OAS"
 		graphics
 		[
-			x	836.1611827187816
-			y	340.84307785115425
+			x	109.29031389983214
+			y	316.8021352279897
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#009EFF"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"C"
+			text	"OAS"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	8
 	]
 	node
 	[
 		id	18
-		label	"M19"
+		label	"ODEBRECHT"
 		graphics
 		[
-			x	800.2102795539378
-			y	474.5008797043286
+			x	165.29031389983214
+			y	282.8021352279897
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#009EFF"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M19"
+			text	"ODEBRECHT"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	8
 	]
 	node
 	[
 		id	19
-		label	"M20"
+		label	"PC do B"
 		graphics
 		[
-			x	741.174225476861
-			y	103.88409708701944
+			x	216.29031389983214
+			y	328.8021352279897
 			w	30.0
 			h	30.0
-			type	"rectangle"
+			type	"ellipse"
 			raisedBorder	0
-			fill	"#FFCC00"
+			fill	"#009EFF"
 			outline	"#000000"
 		]
 		LabelGraphics
 		[
-			text	"M20"
+			text	"PC do B"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
+		gid	8
+	]
+	node
+	[
+		id	20
+		label	"PDT"
+		graphics
+		[
+			x	159.29031389983214
+			y	201.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PDT"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	21
+		label	"PEN"
+		graphics
+		[
+			x	299.29031389983214
+			y	164.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PEN"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	22
+		label	"PHS"
+		graphics
+		[
+			x	204.29031389983214
+			y	433.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PHS"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	23
+		label	"PMDB"
+		graphics
+		[
+			x	123.29031389983214
+			y	220.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PMDB"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	24
+		label	"PMN"
+		graphics
+		[
+			x	289.29031389983214
+			y	99.80213522798971
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PMN"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	25
+		label	"PP"
+		graphics
+		[
+			x	181.29031389983214
+			y	313.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PP"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	26
+		label	"PPL"
+		graphics
+		[
+			x	-48.70968610016786
+			y	313.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PPL"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	27
+		label	"PPS"
+		graphics
+		[
+			x	278.29031389983214
+			y	282.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PPS"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	28
+		label	"PR"
+		graphics
+		[
+			x	207.29031389983214
+			y	256.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PR"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	29
+		label	"PRB"
+		graphics
+		[
+			x	264.29031389983214
+			y	194.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PRB"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	30
+		label	"PROS"
+		graphics
+		[
+			x	163.29031389983214
+			y	385.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PROS"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	31
+		label	"PRP"
+		graphics
+		[
+			x	264.29031389983214
+			y	367.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PRP"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	32
+		label	"PRTB"
+		graphics
+		[
+			x	236.29031389983214
+			y	81.80213522798971
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PRTB"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	33
+		label	"PSB"
+		graphics
+		[
+			x	78.29031389983214
+			y	307.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PSB"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	34
+		label	"PSC"
+		graphics
+		[
+			x	179.29031389983214
+			y	157.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PSC"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	35
+		label	"PSD"
+		graphics
+		[
+			x	239.29031389983214
+			y	297.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PSD"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	36
+		label	"PSDB"
+		graphics
+		[
+			x	152.29031389983214
+			y	354.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PSDB"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	37
+		label	"PSDC"
+		graphics
+		[
+			x	330.29031389983214
+			y	305.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PSDC"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	38
+		label	"PSL"
+		graphics
+		[
+			x	91.29031389983214
+			y	360.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PSL"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	39
+		label	"PT"
+		graphics
+		[
+			x	42.29031389983214
+			y	278.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PT"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	40
+		label	"PTB"
+		graphics
+		[
+			x	128.29031389983214
+			y	282.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PTB"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	41
+		label	"PTC"
+		graphics
+		[
+			x	30.290313899832142
+			y	359.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PTC"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	42
+		label	"PT do B"
+		graphics
+		[
+			x	297.29031389983214
+			y	239.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PT do B"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	43
+		label	"PTN"
+		graphics
+		[
+			x	96.29031389983214
+			y	393.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PTN"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	44
+		label	"PV"
+		graphics
+		[
+			x	121.29031389983214
+			y	173.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"PV"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	45
+		label	"QUEIROZ GALV&#xc3;O"
+		graphics
+		[
+			x	176.29031389983214
+			y	248.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"QUEIROZ GALV&#xc3;O"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	46
+		label	"SD"
+		graphics
+		[
+			x	233.29031389983214
+			y	206.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"SD"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	47
+		label	"TOYO"
+		graphics
+		[
+			x	140.29031389983214
+			y	322.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"TOYO"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
+	]
+	node
+	[
+		id	48
+		label	"UTC"
+		graphics
+		[
+			x	190.29031389983214
+			y	207.8021352279897
+			w	30.0
+			h	30.0
+			type	"ellipse"
+			raisedBorder	0
+			fill	"#009EFF"
+			outline	"#000000"
+		]
+		LabelGraphics
+		[
+			text	"UTC"
+			fontSize	12
+			fontName	"Dialog"
+			model	"null"
+		]
+		gid	8
 	]
 	edge
 	[
-		source	8
-		target	0
+		source	4
+		target	45
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	39.66087341308594
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	153.4249441837678
-					y	40.355223993311796
-				]
-				point
-				[
-					x	66.62366485595703
-					y	58.53384780883789
-				]
-				point
-				[
-					x	0.0
-					y	0.0
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	7
-		target	0
+		source	4
+		target	16
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	110.31399536132812
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	340.02952035402654
-					y	281.2237255453162
-				]
-				point
-				[
-					x	99.70882415771484
-					y	225.61923217773438
-					]
-				point
-				[
-					x	0.0
-					y	0.0
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	7
-		target	8
+		source	4
+		target	18
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	76.17369079589844
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	340.02952035402654
-					y	281.2237255453162
-				]
-				point
-				[
-					x	186.51010131835938
-					y	207.44061279296875
-				]
-				point
-				[
-					x	153.4249441837678
-					y	40.355223993311796
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	10
+		source	4
+		target	9
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	4
+		target	15
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	4
+		target	1
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	4
+		target	2
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	4
+		target	3
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	4
+		target	5
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	4
+		target	6
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	4
 		target	7
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	15.653088569641113
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	371.01189617858023
-					y	335.6332755005275
-				]
-				point
-				[
-					x	341.9183044433594
-					y	316.1741027832031
-				]
-				point
-				[
-					x	340.02952035402654
-					y	281.2237255453162
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	2
-		target	10
+		source	4
+		target	47
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	175.95050048828125
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	749.5
-					y	929.0
-				]
-				point
-				[
-					x	411.914306640625
-					y	726.9386596679688
-				]
-				point
-				[
-					x	371.01189617858023
-					y	335.6332755005275
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	6
-		target	10
+		source	4
+		target	48
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	122.46500396728516
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	697.1348089170141
-					y	701.1557867304656
-				]
-				point
-				[
-					x	442.6927490234375
-					y	599.92529296875
-				]
-				point
-				[
-					x	371.01189617858023
-					y	335.6332755005275
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
 		source	10
+		target	1
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	9
+		target	11
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	9
+		target	14
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	9
 		target	19
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	109.18099975585938
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	371.01189617858023
-					y	335.6332755005275
-				]
-				point
-				[
-					x	498.1557922363281
-					y	127.21809387207031
-				]
-				point
-				[
-					x	741.174225476861
-					y	103.88409708701944
-				]
-			]
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	9
+		target	23
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+		edgeAnchor
+		[
+			xSource	-0.2945339551770844
+			ySource	0.05700657196975835
+			xTarget	-0.2945339551770844
+			yTarget	0.05700657196975823
+		]
+	]
+	edge
+	[
+		source	9
+		target	23
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+		edgeAnchor
+		[
+			xSource	0.3055674852357473
+			xTarget	0.3055674852357473
+		]
+	]
+	edge
+	[
+		source	9
+		target	25
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	9
+		target	28
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	9
+		target	33
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	9
+		target	35
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+		edgeAnchor
+		[
+			xSource	0.11574183913274426
+			ySource	-0.2767739631435189
+			xTarget	0.11574183913274397
+			yTarget	-0.2767739631435186
+		]
+	]
+	edge
+	[
+		source	9
+		target	35
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+		edgeAnchor
+		[
+			ySource	0.32517509587175747
+			yTarget	0.3251750958717565
+		]
+	]
+	edge
+	[
+		source	9
+		target	36
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	9
+		target	39
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	9
+		target	43
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	9
+		target	44
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	9
+		target	46
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	10
+		target	9
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	10
+		target	12
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	10
+		target	13
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	10
+		target	15
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	10
+		target	16
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	10
+		target	17
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	10
+		target	18
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	10
+		target	45
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	10
+		target	48
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	12
+		target	11
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	12
+		target	14
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	12
+		target	39
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	13
+		target	14
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	13
+		target	33
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	13
+		target	39
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	11
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	20
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	23
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	25
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	26
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	28
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	30
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	33
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	34
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	36
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	38
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	39
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	40
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	41
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	15
+		target	44
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	16
+		target	11
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	11
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	14
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	19
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	20
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	23
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	25
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	28
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	33
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	35
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	36
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	39
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	40
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	43
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	17
+		target	44
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
 		source	18
-		target	10
+		target	11
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	112.77617645263672
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	800.2102795539378
-					y	474.5008797043286
-				]
-				point
-				[
-					x	550.8941650390625
-					y	512.36669921875
-				]
-				point
-				[
-					x	371.01189617858023
-					y	335.6332755005275
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	2
-		target	0
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	298.41156005859375
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	749.5
-					y	929.0
-				]
-				point
-				[
-					x	142.5
-					y	651.875
-				]
-				point
-				[
-					x	0.0
-					y	0.0
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	2
-		target	6
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	58.44607925415039
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	749.5
-					y	929.0
-				]
-				point
-				[
-					x	666.3563232421875
-					y	828.169189453125
-				]
-				point
-				[
-					x	697.1348089170141
-					y	701.1557867304656
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	6
-		target	18
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	62.247982025146484
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	697.1348089170141
-					y	701.1557867304656
-				]
-				point
-				[
-					x	692.0088500976562
-					y	562.0594482421875
-				]
-				point
-				[
-					x	800.2102795539378
-					y	474.5008797043286
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	16
-		target	18
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	34.50773620605469
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	925.2808038852797
-					y	532.8952297230228
-				]
-				point
-				[
-					x	848.14697265625
-					y	534.9656982421875
-				]
-				point
-				[
-					x	800.2102795539378
-					y	474.5008797043286
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	10
-		target	17
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	116.29461669921875
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	371.01189617858023
-					y	335.6332755005275
-				]
-				point
-				[
-					x	604.8889770507812
-					y	221.95083618164062
-				]
-				point
-				[
-					x	836.1611827187816
-					y	340.84307785115425
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	14
-		target	18
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	20.153228759765625
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	877.1503133463792
-					y	450.44533858518827
-				]
-				point
-				[
-					x	844.6942138671875
-					y	481.7081298828125
-				]
-				point
-				[
-					x	800.2102795539378
-					y	474.5008797043286
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	16
-		target	6
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	70.87057495117188
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	925.2808038852797
-					y	532.8952297230228
-				]
-				point
-				[
-					x	853.27294921875
-					y	674.06201171875
-				]
-				point
-				[
-					x	697.1348089170141
-					y	701.1557867304656
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	17
-		target	4
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	28.378582000732422
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	836.1611827187816
-					y	340.84307785115425
-				]
-				point
-				[
-					x	895.6752319335938
-					y	362.8611755371094
-				]
-				point
-				[
-					x	913.7692217146581
-					y	423.68325372260574
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	16
+		source	18
 		target	14
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	23.867504119873047
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	925.2808038852797
-					y	532.8952297230228
-				]
-				point
-				[
-					x	880.6030883789062
-					y	503.7029113769531
-				]
-				point
-				[
-					x	877.1503133463792
-					y	450.44533858518827
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	17
-		target	13
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	29.044618606567383
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	836.1611827187816
-					y	340.84307785115425
-				]
-				point
-				[
-					x	865.469970703125
-					y	282.8866882324219
-				]
-				point
-				[
-					x	929.4203700162302
-					y	271.55983176385166
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	16
-		target	2
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	108.33914184570312
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	925.2808038852797
-					y	532.8952297230228
-				]
-				point
-				[
-					x	936.4165649414062
-					y	774.892822265625
-				]
-				point
-				[
-					x	749.5
-					y	929.0
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	11
-		target	4
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	31.672883987426758
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	1026.6633318714676
-					y	481.17820266480715
-				]
-				point
-				[
-					x	955.8425903320312
-					y	480.65423583984375
-				]
-				point
-				[
-					x	913.7692217146581
-					y	423.68325372260574
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	13
-		target	4
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	38.231605529785156
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	929.4203700162302
-					y	271.55983176385166
-				]
-				point
-				[
-					x	959.6256103515625
-					y	351.5343322753906
-				]
-				point
-				[
-					x	913.7692217146581
-					y	423.68325372260574
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	13
-		target	9
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	35.949981689453125
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	929.4203700162302
-					y	271.55983176385166
-				]
-				point
-				[
-					x	854.5427856445312
-					y	242.31332397460938
-				]
-				point
-				[
-					x	833.0135163653568
-					y	164.8633802227189
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	5
-		target	13
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	47.6873779296875
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	953.5359702344336
-					y	82.34088757063246
-				]
-				point
-				[
-					x	988.7828979492188
-					y	182.97927856445312
-				]
-				point
-				[
-					x	929.4203700162302
-					y	271.55983176385166
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	5
-		target	9
-		graphics
-		[
-			type	"arc"
-			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	36.51679992675781
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	953.5359702344336
-					y	82.34088757063246
-				]
-				point
-				[
-					x	913.9053344726562
-					y	153.7327423095703
-				]
-				point
-				[
-					x	833.0135163653568
-					y	164.8633802227189
-				]
-			]
-		]
-	]
-	edge
-	[
-		source	5
+		source	18
 		target	19
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	53.36290740966797
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	953.5359702344336
-					y	82.34088757063246
-				]
-				point
-				[
-					x	852.7409057617188
-					y	146.20291137695312
-				]
-				point
-				[
-					x	741.174225476861
-					y	103.88409708701944
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	11
-		target	2
+		source	18
+		target	20
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	131.66336059570312
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	1026.6633318714676
-					y	481.17820266480715
-				]
-				point
-				[
-					x	1000.037109375
-					y	774.3799438476562
-				]
-				point
-				[
-					x	749.5
-					y	929.0
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	11
-		target	16
+		source	18
+		target	22
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	28.452880859375
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	1026.6633318714676
-					y	481.17820266480715
-				]
-				point
-				[
-					x	988.9013061523438
-					y	532.38232421875
-				]
-				point
-				[
-					x	925.2808038852797
-					y	532.8952297230228
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	13
-		target	15
+		source	18
+		target	23
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	113.7736587524414
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	929.4203700162302
-					y	271.55983176385166
-				]
-				point
-				[
-					x	692.3997802734375
-					y	179.1289825439453
-				]
-				point
-				[
-					x	624.1320641176927
-					y	-65.9460219927501
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	15
+		source	18
+		target	25
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	27
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	28
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	29
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	30
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	31
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	33
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	34
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	35
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	36
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	38
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	39
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	40
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	41
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	42
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	43
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	44
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	18
+		target	46
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
 		target	11
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	169.8117218017578
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	624.1320641176927
-					y	-65.9460219927501
-				]
-				point
-				[
-					x	962.1787719726562
-					y	106.9832763671875
-				]
-				point
-				[
-					x	1026.6633318714676
-					y	481.17820266480715
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	13
-		target	3
+		source	45
+		target	14
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	38.655433654785156
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	929.4203700162302
-					y	271.55983176385166
-				]
-				point
-				[
-					x	996.7032470703125
-					y	217.2991485595703
-				]
-				point
-				[
-					x	1080.4815619084475
-					y	238.56907128339924
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	3
-		target	5
+		source	45
+		target	19
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	50.325462341308594
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	1080.4815619084475
-					y	238.56907128339924
-				]
-				point
-				[
-					x	977.9517211914062
-					y	192.19139099121094
-				]
-				point
-				[
-					x	953.5359702344336
-					y	82.34088757063246
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	1
+		source	45
+		target	20
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	21
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	23
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	25
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	27
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	28
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	29
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	30
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	31
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	33
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	34
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	35
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	36
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	37
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	38
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	39
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	40
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	42
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	45
+		target	46
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	47
+		target	19
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	47
+		target	23
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	47
+		target	28
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	47
+		target	33
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	47
+		target	36
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	47
+		target	39
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	48
 		target	11
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	168.5664520263672
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	1499.0
-					y	0.0
-				]
-				point
-				[
-					x	1383.126220703125
-					y	358.67327880859375
-				]
-				point
-				[
-					x	1026.6633318714676
-					y	481.17820266480715
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	12
-		target	11
+		source	48
+		target	14
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	139.02444458007812
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	1390.8539495937698
-					y	60.92838879424232
-				]
-				point
-				[
-					x	1313.8211669921875
-					y	362.1009521484375
-				]
-				point
-				[
-					x	1026.6633318714676
-					y	481.17820266480715
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	12
-		target	15
+		source	48
+		target	19
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	194.28709411621094
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	1390.8539495937698
-					y	60.92838879424232
-				]
-				point
-				[
-					x	975.7744140625
-					y	189.17166137695312
-				]
-				point
-				[
-					x	624.1320641176927
-					y	-65.9460219927501
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	12
-		target	5
+		source	48
+		target	20
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	109.46048736572266
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	1390.8539495937698
-					y	60.92838879424232
-				]
-				point
-				[
-					x	1177.548095703125
-					y	180.9641571044922
-				]
-				point
-				[
-					x	953.5359702344336
-					y	82.34088757063246
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	5
-		target	1
+		source	48
+		target	21
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	137.91099548339844
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	953.5359702344336
-					y	82.34088757063246
-				]
-				point
-				[
-					x	1205.6827392578125
-					y	-95.19557189941406
-				]
-				point
-				[
-					x	1499.0
-					y	0.0
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	1
-		target	2
+		source	48
+		target	23
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	298.41156005859375
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	1499.0
-					y	0.0
-				]
-				point
-				[
-					x	1356.5
-					y	651.875
-				]
-				point
-				[
-					x	749.5
-					y	929.0
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	1
-		target	12
+		source	48
+		target	24
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	31.03206443786621
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	1499.0
-					y	0.0
-				]
-				point
-				[
-					x	1460.1590576171875
-					y	57.500694274902344
-				]
-				point
-				[
-					x	1390.8539495937698
-					y	60.92838879424232
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	7
-		target	17
+		source	48
+		target	25
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	124.92525482177734
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	340.02952035402654
-					y	281.2237255453162
-				]
-				point
-				[
-					x	603.0001831054688
-					y	187.00045776367188
-				]
-				point
-				[
-					x	836.1611827187816
-					y	340.84307785115425
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	16
-		target	4
+		source	48
+		target	27
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	27.454240798950195
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	925.2808038852797
-					y	532.8952297230228
-				]
-				point
-				[
-					x	892.2220458984375
-					y	481.1671447753906
-				]
-				point
-				[
-					x	913.7692217146581
-					y	423.68325372260574
-				]
-			]
+			targetArrow	"standard"
 		]
 	]
 	edge
 	[
-		source	15
-		target	0
+		source	48
+		target	28
 		graphics
 		[
-			type	"arc"
 			fill	"#000000"
-			arcType	"fixedRatio"
-			arcHeight	156.90158081054688
-			arcRatio	1.0
-			Line
-			[
-				point
-				[
-					x	624.1320641176927
-					y	-65.9460219927501
-				]
-				point
-				[
-					x	328.55255126953125
-					y	123.06001281738281
-				]
-				point
-				[
-					x	0.0
-					y	0.0
-				]
-			]
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	48
+		target	29
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	48
+		target	32
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	48
+		target	33
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	48
+		target	34
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	48
+		target	35
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	48
+		target	36
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	48
+		target	39
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	48
+		target	40
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	48
+		target	42
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	48
+		target	44
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
+		]
+	]
+	edge
+	[
+		source	48
+		target	46
+		graphics
+		[
+			fill	"#000000"
+			targetArrow	"standard"
 		]
 	]
 ]
