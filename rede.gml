@@ -11,10 +11,10 @@ graph
 		label	"Cluster 1 (7)"
 		graphics
 		[
-			x	667.861894172014
-			y	271.23340942352445
-			w	319.17843228262586
-			h	301.3531088696436
+			x	-386.4846716284261
+			y	677.0611903464031
+			w	371.55253680797756
+			h	873.4863281591349
 			type	"roundrectangle"
 			fill	"#F5F5F5"
 			outline	"#000000"
@@ -43,8 +43,8 @@ graph
 		label	"ALUMINI"
 		graphics
 		[
-			x	550.3156467807011
-			y	391.90996385834626
+			x	-530.9240259699149
+			y	1083.8043544259706
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -57,7 +57,7 @@ graph
 			text	"ALUMINI"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	0
 	]
@@ -67,8 +67,8 @@ graph
 		label	"GDK"
 		graphics
 		[
-			x	727.4157858255966
-			y	172.0177924887026
+			x	-245.96482830199756
+			y	329.3137938277505
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -81,7 +81,7 @@ graph
 			text	"GDK"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	0
 	]
@@ -91,8 +91,8 @@ graph
 		label	"IESA"
 		graphics
 		[
-			x	635.2602613730752
-			y	201.96093750000009
+			x	-412.79348018314454
+			y	368.60253494059464
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -105,7 +105,7 @@ graph
 			text	"IESA"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	0
 	]
@@ -115,8 +115,8 @@ graph
 		label	"PETROBR&#xc1;S"
 		graphics
 		[
-			x	701.9446253171342
-			y	250.40996385834623
+			x	-321.4423133477526
+			y	382.6597396745261
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -129,7 +129,7 @@ graph
 			text	"PETROBR&#xc1;S"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	0
 	]
@@ -139,8 +139,8 @@ graph
 		label	"PROMON"
 		graphics
 		[
-			x	635.2602613730752
-			y	298.8589902166923
+			x	-368.6966760301684
+			y	462.09314508181046
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -153,7 +153,7 @@ graph
 			text	"PROMON"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	0
 	]
@@ -163,8 +163,8 @@ graph
 		label	"SKANSKA"
 		graphics
 		[
-			x	727.4157858255966
-			y	328.80213522798977
+			x	-342.6294494908864
+			y	292.69449111058566
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -177,7 +177,7 @@ graph
 			text	"SKANSKA"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	0
 	]
@@ -187,8 +187,8 @@ graph
 		label	"TECHINT"
 		graphics
 		[
-			x	784.3710321883269
-			y	250.40996385834623
+			x	-243.7064500994373
+			y	432.6575021460459
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -201,7 +201,7 @@ graph
 			text	"TECHINT"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	0
 	]
@@ -211,10 +211,10 @@ graph
 		label	"Cluster 2 (40)"
 		graphics
 		[
-			x	131.82400530608214
-			y	247.0716664779897
-			w	463.4052734375
-			h	433.4609375
+			x	499.61491087426487
+			y	799.4256460354272
+			w	1003.8688781023723
+			h	1424.4141560717426
 			type	"roundrectangle"
 			fill	"#F5F5F5"
 			outline	"#000000"
@@ -243,8 +243,8 @@ graph
 		label	"ANDRADE GUTIERREZ"
 		graphics
 		[
-			x	129.29031389983214
-			y	251.8021352279897
+			x	748.9438560277251
+			y	676.2830269277254
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -257,7 +257,7 @@ graph
 			text	"ANDRADE GUTIERREZ"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -267,8 +267,8 @@ graph
 		label	"BNDES"
 		graphics
 		[
-			x	53.29031389983214
-			y	191.8021352279897
+			x	674.7728804760026
+			y	1016.0445703364873
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -281,7 +281,7 @@ graph
 			text	"BNDES"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -291,8 +291,8 @@ graph
 		label	"CADE"
 		graphics
 		[
-			x	88.29031389983214
-			y	188.8021352279897
+			x	683.4687475185572
+			y	548.1148363458017
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -305,7 +305,7 @@ graph
 			text	"CADE"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -315,8 +315,8 @@ graph
 		label	"CAMARGO CORREA"
 		graphics
 		[
-			x	-24.709686100167858
-			y	200.8021352279897
+			x	154.7709593796931
+			y	1057.5208127927165
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -329,7 +329,7 @@ graph
 			text	"CAMARGO CORREA"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -339,8 +339,8 @@ graph
 		label	"COESA"
 		graphics
 		[
-			x	-28.709686100167858
-			y	261.8021352279897
+			x	716.056422109257
+			y	956.6777241027811
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -353,7 +353,7 @@ graph
 			text	"COESA"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -363,8 +363,8 @@ graph
 		label	"DEM"
 		graphics
 		[
-			x	66.29031389983214
-			y	224.8021352279897
+			x	633.296638019774
+			y	496.0426492401761
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -377,7 +377,7 @@ graph
 			text	"DEM"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -387,8 +387,8 @@ graph
 		label	"ENGEVIX"
 		graphics
 		[
-			x	84.29031389983214
-			y	255.8021352279897
+			x	211.68015947762302
+			y	1361.8807397704359
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -401,7 +401,7 @@ graph
 			text	"ENGEVIX"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -411,8 +411,8 @@ graph
 		label	"MENDES JUNIOR"
 		graphics
 		[
-			x	8.290313899832142
-			y	133.8021352279897
+			x	722.5180342512222
+			y	608.9745639757482
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -425,7 +425,7 @@ graph
 			text	"MENDES JUNIOR"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -435,8 +435,8 @@ graph
 		label	"OAS"
 		graphics
 		[
-			x	109.29031389983214
-			y	316.8021352279897
+			x	293.535094611012
+			y	421.87167368845417
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -449,7 +449,7 @@ graph
 			text	"OAS"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -459,8 +459,8 @@ graph
 		label	"ODEBRECHT"
 		graphics
 		[
-			x	165.29031389983214
-			y	282.8021352279897
+			x	415.491066728656
+			y	1389.2629841427633
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -473,7 +473,7 @@ graph
 			text	"ODEBRECHT"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -483,8 +483,8 @@ graph
 		label	"PC do B"
 		graphics
 		[
-			x	216.29031389983214
-			y	328.8021352279897
+			x	573.9297917860678
+			y	454.7591076069218
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -497,7 +497,7 @@ graph
 			text	"PC do B"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -507,8 +507,8 @@ graph
 		label	"PDT"
 		graphics
 		[
-			x	159.29031389983214
-			y	201.8021352279897
+			x	507.649643424889
+			y	425.8507147989277
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -521,7 +521,7 @@ graph
 			text	"PDT"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -531,8 +531,8 @@ graph
 		label	"PEN"
 		graphics
 		[
-			x	299.29031389983214
-			y	164.8021352279897
+			x	437.0033018674222
+			y	410.42840413979167
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -545,7 +545,7 @@ graph
 			text	"PEN"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -555,8 +555,8 @@ graph
 		label	"PHS"
 		graphics
 		[
-			x	204.29031389983214
-			y	433.8021352279897
+			x	418.7270878432479
+			y	1481.6327240712985
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -569,7 +569,7 @@ graph
 			text	"PHS"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -579,8 +579,8 @@ graph
 		label	"PMDB"
 		graphics
 		[
-			x	123.29031389983214
-			y	220.8021352279897
+			x	364.705666400796
+			y	409.0848463792127
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -593,7 +593,7 @@ graph
 			text	"PMDB"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -603,8 +603,8 @@ graph
 		label	"PMN"
 		graphics
 		[
-			x	289.29031389983214
-			y	99.80213522798971
+			x	888.0283683610727
+			y	307.5135141190317
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -617,7 +617,7 @@ graph
 			text	"PMN"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -627,8 +627,8 @@ graph
 		label	"PP"
 		graphics
 		[
-			x	181.29031389983214
-			y	313.8021352279897
+			x	226.22663165903495
+			y	448.2974954649572
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -641,7 +641,7 @@ graph
 			text	"PP"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -651,8 +651,8 @@ graph
 		label	"PPL"
 		graphics
 		[
-			x	-48.70968610016786
-			y	313.8021352279897
+			x	184.17897777779012
+			y	1450.1208989511179
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -665,7 +665,7 @@ graph
 			text	"PPL"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -675,8 +675,8 @@ graph
 		label	"PPS"
 		graphics
 		[
-			x	278.29031389983214
-			y	282.8021352279897
+			x	165.3669040290885
+			y	487.34678219762225
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -689,7 +689,7 @@ graph
 			text	"PPS"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -699,8 +699,8 @@ graph
 		label	"PR"
 		graphics
 		[
-			x	207.29031389983214
-			y	256.8021352279897
+			x	113.29471692346294
+			y	537.5188916964055
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -713,7 +713,7 @@ graph
 			text	"PR"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -723,8 +723,8 @@ graph
 		label	"PRB"
 		graphics
 		[
-			x	264.29031389983214
-			y	194.8021352279897
+			x	72.01117529020871
+			y	596.8857379301119
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -737,7 +737,7 @@ graph
 			text	"PRB"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -747,8 +747,8 @@ graph
 		label	"PROS"
 		graphics
 		[
-			x	163.29031389983214
-			y	385.8021352279897
+			x	43.10278248221465
+			y	663.1658862912907
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -761,7 +761,7 @@ graph
 			text	"PROS"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -771,8 +771,8 @@ graph
 		label	"PRP"
 		graphics
 		[
-			x	264.29031389983214
-			y	367.8021352279897
+			x	27.680471823078733
+			y	733.8122278487575
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -785,7 +785,7 @@ graph
 			text	"PRP"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -795,8 +795,8 @@ graph
 		label	"PRTB"
 		graphics
 		[
-			x	236.29031389983214
-			y	81.80213522798971
+			x	968.547396800451
+			y	410.4793697869043
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -809,7 +809,7 @@ graph
 			text	"PRTB"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -819,8 +819,8 @@ graph
 		label	"PSB"
 		graphics
 		[
-			x	78.29031389983214
-			y	307.8021352279897
+			x	744.9648149172513
+			y	890.3975757416024
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -833,7 +833,7 @@ graph
 			text	"PSB"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -843,8 +843,8 @@ graph
 		label	"PSC"
 		graphics
 		[
-			x	179.29031389983214
-			y	157.8021352279897
+			x	760.3871255763875
+			y	819.7512341841356
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -857,7 +857,7 @@ graph
 			text	"PSC"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -867,8 +867,8 @@ graph
 		label	"PSD"
 		graphics
 		[
-			x	239.29031389983214
-			y	297.8021352279897
+			x	761.7306833369664
+			y	747.4535987175094
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -881,7 +881,7 @@ graph
 			text	"PSD"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -891,8 +891,8 @@ graph
 		label	"PSDB"
 		graphics
 		[
-			x	152.29031389983214
-			y	354.8021352279897
+			x	65.54956314824483
+			y	944.5888980571451
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -905,7 +905,7 @@ graph
 			text	"PSDB"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -915,8 +915,8 @@ graph
 		label	"PSDC"
 		graphics
 		[
-			x	330.29031389983214
-			y	305.8021352279897
+			x	91.6800446129867
+			y	139.59503284330594
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -929,7 +929,7 @@ graph
 			text	"PSDC"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -939,8 +939,8 @@ graph
 		label	"PSL"
 		graphics
 		[
-			x	91.29031389983214
-			y	360.8021352279897
+			x	104.59884988090994
+			y	1005.4486256870913
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -953,7 +953,7 @@ graph
 			text	"PSL"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -963,8 +963,8 @@ graph
 		label	"PT"
 		graphics
 		[
-			x	42.29031389983214
-			y	278.8021352279897
+			x	214.13780561339914
+			y	1098.8043544259706
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -977,7 +977,7 @@ graph
 			text	"PT"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -987,8 +987,8 @@ graph
 		label	"PTB"
 		graphics
 		[
-			x	128.29031389983214
-			y	282.8021352279897
+			x	280.41795397457776
+			y	1127.7127472339644
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -1001,7 +1001,7 @@ graph
 			text	"PTB"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -1011,8 +1011,8 @@ graph
 		label	"PTC"
 		graphics
 		[
-			x	30.290313899832142
-			y	359.8021352279897
+			x	351.0642955320443
+			y	1143.1350578931003
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -1025,7 +1025,7 @@ graph
 			text	"PTC"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -1035,8 +1035,8 @@ graph
 		label	"PT do B"
 		graphics
 		[
-			x	297.29031389983214
-			y	239.8021352279897
+			x	423.36193099867006
+			y	1144.4786156536793
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -1049,7 +1049,7 @@ graph
 			text	"PT do B"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -1059,8 +1059,8 @@ graph
 		label	"PTN"
 		graphics
 		[
-			x	96.29031389983214
-			y	393.8021352279897
+			x	561.8409657404306
+			y	1105.2659665679353
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -1073,7 +1073,7 @@ graph
 			text	"PTN"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -1083,8 +1083,8 @@ graph
 		label	"PV"
 		graphics
 		[
-			x	121.29031389983214
-			y	173.8021352279897
+			x	622.7006933703769
+			y	1066.2166798352705
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -1097,7 +1097,7 @@ graph
 			text	"PV"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -1107,8 +1107,8 @@ graph
 		label	"QUEIROZ GALV&#xc3;O"
 		graphics
 		[
-			x	176.29031389983214
-			y	248.8021352279897
+			x	131.30308254099828
+			y	223.09746126592518
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -1121,7 +1121,7 @@ graph
 			text	"QUEIROZ GALV&#xc3;O"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -1131,8 +1131,8 @@ graph
 		label	"SD"
 		graphics
 		[
-			x	233.29031389983214
-			y	206.8021352279897
+			x	494.5325027884538
+			y	1131.691788344438
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -1145,7 +1145,7 @@ graph
 			text	"SD"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -1155,8 +1155,8 @@ graph
 		label	"TOYO"
 		graphics
 		[
-			x	140.29031389983214
-			y	322.8021352279897
+			x	39.12374137174169
+			y	877.2804351051685
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -1169,7 +1169,7 @@ graph
 			text	"TOYO"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -1179,8 +1179,8 @@ graph
 		label	"UTC"
 		graphics
 		[
-			x	190.29031389983214
-			y	207.8021352279897
+			x	876.8049547468256
+			y	399.25595617265714
 			w	30.0
 			h	30.0
 			type	"ellipse"
@@ -1193,7 +1193,7 @@ graph
 			text	"UTC"
 			fontSize	12
 			fontName	"Dialog"
-			model	"null"
+			anchor	"c"
 		]
 		gid	8
 	]
@@ -1378,10 +1378,10 @@ graph
 		]
 		edgeAnchor
 		[
-			xSource	-0.2945339551770844
-			ySource	0.05700657196975835
-			xTarget	-0.2945339551770844
-			yTarget	0.05700657196975823
+			xSource	-0.15224625072747433
+			ySource	0.21893421443560993
+			xTarget	-0.152246250727476
+			yTarget	0.21893421443561087
 		]
 	]
 	edge
@@ -1395,8 +1395,10 @@ graph
 		]
 		edgeAnchor
 		[
-			xSource	0.3055674852357473
-			xTarget	0.3055674852357473
+			xSource	3.789561257387201E-15
+			ySource	-0.32480583856857476
+			xTarget	2.3684757858670006E-16
+			yTarget	-0.3248058385685795
 		]
 	]
 	edge
@@ -1440,10 +1442,10 @@ graph
 		]
 		edgeAnchor
 		[
-			xSource	0.11574183913274426
-			ySource	-0.2767739631435189
-			xTarget	0.11574183913274397
-			yTarget	-0.2767739631435186
+			xSource	0.29527225195589607
+			ySource	-0.053049950281736834
+			xTarget	0.29527225195589607
+			yTarget	-0.0530499502817366
 		]
 	]
 	edge
@@ -1457,8 +1459,9 @@ graph
 		]
 		edgeAnchor
 		[
-			ySource	0.32517509587175747
-			yTarget	0.3251750958717565
+			xSource	-0.3048034463239863
+			xTarget	-0.30480344632398254
+			yTarget	2.3684757858670006E-16
 		]
 	]
 	edge

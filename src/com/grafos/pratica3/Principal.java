@@ -15,7 +15,6 @@ import org.jgrapht.alg.scoring.AlphaCentrality;
 import org.jgrapht.alg.scoring.BetweennessCentrality;
 import org.jgrapht.alg.scoring.ClosenessCentrality;
 import org.jgrapht.alg.shortestpath.DijkstraShortestPath;
-import org.jgrapht.graph.DefaultEdge;
 import org.jgrapht.traverse.BreadthFirstIterator;
 
 public class Principal {
@@ -47,9 +46,8 @@ public class Principal {
 			}
 		}
 		double average = sum / a.size();
-		salvar (diameter,pathSalvamento+"diametro.txt");
-		salvar(average,pathSalvamento+"Distancia.txt");
-		
+		salvar(diameter, pathSalvamento + "diametro.txt");
+		salvar(average, pathSalvamento + "Distancia.txt");
 
 	}
 
@@ -62,9 +60,11 @@ public class Principal {
 			Iterator<Object> vs = g.vertexSet().iterator();
 			while (vs.hasNext()) {
 				Object v2 = vs.next();
-				int dist = (p.getPath(v1, v2)).getLength();
-				if (v1.equals(v2) == false) {
-					a.add(dist);
+				if (p.getPath(v1, v2) != null) {
+					int dist = (p.getPath(v1, v2)).getLength();
+					if (v1.equals(v2) == false) {
+						a.add(dist);
+					}
 				}
 			}
 		}
@@ -122,7 +122,7 @@ public class Principal {
 	}
 
 	private static void gerarAlphaCentrality(Graph<Object, RelationshipEdge> grafo, String pathSalvamento) {
-		AlphaCentrality<Object, RelationshipEdge> alpha = new AlphaCentrality<>(grafo);
+		AlphaCentrality<Object, RelationshipEdge> alpha = new AlphaCentrality<>(grafo,0.1);
 		Map<Object, Double> mapAplha = alpha.getScores();
 		salvar(pathSalvamento, mapAplha);
 	}
