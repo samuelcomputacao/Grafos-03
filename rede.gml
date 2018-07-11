@@ -11,10 +11,10 @@ graph
 		label	"Cluster 1 (7)"
 		graphics
 		[
-			x	-386.4846716284261
-			y	677.0611903464031
-			w	371.55253680797756
-			h	873.4863281591349
+			x	-386.7966833471761
+			y	677.5189540182781
+			w	372.34062274547756
+			h	872.5708008153849
 			type	"roundrectangle"
 			fill	"#F5F5F5"
 			outline	"#000000"
@@ -112,7 +112,7 @@ graph
 	node
 	[
 		id	4
-		label	"PETROBR&#xc1;S"
+		label	"PETROBRAS"
 		graphics
 		[
 			x	-321.4423133477526
@@ -126,7 +126,7 @@ graph
 		]
 		LabelGraphics
 		[
-			text	"PETROBR&#xc1;S"
+			text	"PETROBRAS"
 			fontSize	12
 			fontName	"Dialog"
 			anchor	"c"
@@ -211,10 +211,10 @@ graph
 		label	"Cluster 2 (40)"
 		graphics
 		[
-			x	499.61491087426487
-			y	799.4256460354272
-			w	1003.8688781023723
-			h	1424.4141560717426
+			x	499.39811399926487
+			y	799.8834097073022
+			w	1003.4352843523723
+			h	1423.4986287279926
 			type	"roundrectangle"
 			fill	"#F5F5F5"
 			outline	"#000000"
@@ -1104,7 +1104,7 @@ graph
 	node
 	[
 		id	45
-		label	"QUEIROZ GALV&#xc3;O"
+		label	"QUEIROZ GALVAO"
 		graphics
 		[
 			x	131.30308254099828
@@ -1118,7 +1118,7 @@ graph
 		]
 		LabelGraphics
 		[
-			text	"QUEIROZ GALV&#xc3;O"
+			text	"QUEIROZ GALVAO"
 			fontSize	12
 			fontName	"Dialog"
 			anchor	"c"

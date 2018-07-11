@@ -8,8 +8,11 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 import org.jgrapht.Graph;
+import org.jgrapht.alg.clique.DegeneracyBronKerboschCliqueFinder;
+import org.jgrapht.alg.clique.PivotBronKerboschCliqueFinder;
 import org.jgrapht.alg.cycle.PatonCycleBase;
 import org.jgrapht.alg.scoring.AlphaCentrality;
 import org.jgrapht.alg.scoring.BetweennessCentrality;
@@ -48,7 +51,44 @@ public class Principal {
 		double average = sum / a.size();
 		salvar(diameter, pathSalvamento + "diametro.txt");
 		salvar(average, pathSalvamento + "Distancia.txt");
+		
+		gerarCliques(grafo,pathSalvamento + "Cliques.txt");
+		
 
+	}
+	
+	private static void gerarCliques(Graph<Object, RelationshipEdge> grafo, String path) {
+		DegeneracyBronKerboschCliqueFinder <Object,RelationshipEdge> cf2 = 
+	    		new DegeneracyBronKerboschCliqueFinder <> (grafo); 
+	    Iterator  <Set <Object>> it2 = cf2.iterator();
+	    String saida = "DegenearyBronKerboschCliqueFinder cliques: \n";
+	    while (it2.hasNext()) {
+	    	saida += it2.next().toString() + " ";
+	    }
+	    
+	    PivotBronKerboschCliqueFinder <Object,RelationshipEdge> cf3 = 
+	    		new PivotBronKerboschCliqueFinder <> (grafo); 
+	    Iterator  <Set <Object>> it3 = cf3.iterator();
+	    saida += "\n\nPivotBronKerboschCliqueFinder cliques: \n";
+	    while (it3.hasNext()) {
+	    	saida += it3.next().toString() + " ";	    	
+	    }
+	    
+	    salvar(saida, path);
+	}
+
+	private static void salvar(String saida, String path) {
+		try {
+			File file = new File(path);
+			FileWriter fileWriter = new FileWriter(file);
+			BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+			bufferedWriter.write(saida);
+			bufferedWriter.close();
+			fileWriter.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
 	}
 
 	private static ArrayList<Integer> get_allpathLenghts(Graph<Object, RelationshipEdge> g) {
