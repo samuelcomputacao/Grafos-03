@@ -4,11 +4,15 @@ import java.util.Map;
 
 import org.jgrapht.io.Attribute;
 
+/**
+ * Representa um vertice no grafo
+ *
+ */
 public class DefaultVertex implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 	
-	// V�rtices com id e label
+	
 	private Object id;
 	private Map <String,Attribute> att;
 		

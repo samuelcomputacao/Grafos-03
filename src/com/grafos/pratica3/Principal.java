@@ -20,8 +20,16 @@ import org.jgrapht.alg.scoring.ClosenessCentrality;
 import org.jgrapht.alg.shortestpath.DijkstraShortestPath;
 import org.jgrapht.traverse.BreadthFirstIterator;
 
+/**
+ * Classe principal responsavel por realizar as funcionalidades
+ * exigidas pela questao 2 
+ *
+ */
 public class Principal {
 
+	/**
+	 * Metodo principal responsavel por iniccializar as atividades
+	 */
 	public static void main(String[] args) {
 
 		String pathGraph = new File("").getAbsolutePath() + File.separator + "TEIA.gml";
@@ -56,7 +64,12 @@ public class Principal {
 		
 
 	}
-	
+
+	/**
+	 * Metodo responsavel peladeracao dos cliques do grafo
+	 * @param grafo : um grafo analizado para geracao dos cliques
+	 * @param path : Local onde sera salvoi os cliques obtidos
+	 */
 	private static void gerarCliques(Graph<Object, RelationshipEdge> grafo, String path) {
 		DegeneracyBronKerboschCliqueFinder <Object,RelationshipEdge> cf2 = 
 	    		new DegeneracyBronKerboschCliqueFinder <> (grafo); 
@@ -77,6 +90,11 @@ public class Principal {
 	    salvar(saida, path);
 	}
 
+	/**
+	 * Metodo responsavel por salvar um dado no formato de string em um arquivo de saida 
+	 * @param saida : Dado que sera salvo
+	 * @param path : O caminho onde o arquivo de saida se encontra
+	 */
 	private static void salvar(String saida, String path) {
 		try {
 			File file = new File(path);
@@ -91,6 +109,7 @@ public class Principal {
 		
 	}
 
+	
 	private static ArrayList<Integer> get_allpathLenghts(Graph<Object, RelationshipEdge> g) {
 		DijkstraShortestPath<Object, RelationshipEdge> p = new DijkstraShortestPath<>(g);
 		ArrayList<Integer> a = new ArrayList<Integer>();
@@ -111,6 +130,11 @@ public class Principal {
 		return a;
 	}
 
+	/**
+	 * Metodo responsavel pelo salvamento de um valor de cluster
+	 * @param coefCluster : Um double representao o coeficiente de cluter
+	 * @param path : caminho onde será salvo o dado
+	 */
 	private static void salvar(double coefCluster, String path) {
 		try {
 			File file = new File(path);
@@ -126,6 +150,11 @@ public class Principal {
 
 	}
 
+	/**
+	 * Metodo responsavel por buscar todos a quantidades de triangulos que ha no grafo
+	 * @param g : Um grafo que sera analizado
+	 * @return Um inteiro indicando a quantidade de triangulos que o grafo possui
+	 */
 	private static double get_NTriangles(Graph<Object, RelationshipEdge> g) {
 		double triangles = 0;
 		PatonCycleBase<Object, RelationshipEdge> pc = new PatonCycleBase<>(g);
@@ -140,6 +169,11 @@ public class Principal {
 		return triangles;
 	}
 
+	/**
+	 * Metodo responsavel por buscar o numero de triplets que o grafo possui
+	 * @param g : Um grafo que sera analizado
+	 * @return : Um inteiro indicando a quantidade de triplets que o grafo possui
+	 */
 	private static double get_NTriplets(Graph<Object, RelationshipEdge> g) {
 		double triplets = 0;
 		BreadthFirstIterator<Object, RelationshipEdge> cfi = new BreadthFirstIterator<>(g);
@@ -161,12 +195,22 @@ public class Principal {
 		}
 	}
 
+	/**
+	 * Metodo responsavel p0ela geracao do alpha centrality
+	 * @param grafo : Um grafo utilizado para a geracao do alpha centrality
+	 * @param pathSalvamento: O local onde sera salvo o resultado obtido
+	 */
 	private static void gerarAlphaCentrality(Graph<Object, RelationshipEdge> grafo, String pathSalvamento) {
 		AlphaCentrality<Object, RelationshipEdge> alpha = new AlphaCentrality<>(grafo,0.1);
 		Map<Object, Double> mapAplha = alpha.getScores();
 		salvar(pathSalvamento, mapAplha);
 	}
 
+	/**
+	 * Metodo responsavel pela geracao do betweeness 
+	 * @param grafo : Grafo utulizado para a geracao do betweeness
+	 * @param pathSalvamento : Local onde sera salvo o resultyado obtido
+	 */
 	private static void gerarBetweenness(Graph<Object, RelationshipEdge> grafo, String pathSalvamento) {
 		BetweennessCentrality<Object, RelationshipEdge> betweenness = new BetweennessCentrality<>(grafo);
 		Map<Object, Double> mapCentrality = betweenness.getScores();
@@ -174,6 +218,11 @@ public class Principal {
 
 	}
 
+	/**
+	 * Metodo responsavel pela geracao do closeness 
+	 * @param grafo : Grafo utulizado para a geracao do closeness
+	 * @param pathSalvamento : Local onde sera salvo o resultyado obtido
+	 */
 	private static void gerarCloseness(Graph<Object, RelationshipEdge> grafo, String pathSalvamento) {
 
 		ClosenessCentrality<Object, RelationshipEdge> centrality = new ClosenessCentrality<>(grafo);
@@ -184,6 +233,11 @@ public class Principal {
 
 	}
 
+	/**
+	 * Metoto responsavel por salvar um mapa de objetos
+	 * @param path : Local onde sera salvo
+	 * @param mapa : Mapa que sera analizado para salvamento
+	 */
 	private static void salvar(String path, Map<Object, Double> mapa) {
 		try {
 			File file = new File(path);
@@ -199,6 +253,11 @@ public class Principal {
 
 	}
 
+	/**
+	 * Metodo responsavelpor gerar uma representacao textual para um mapa
+	 * @param mapa : Um mapa que sera analizado pra geracao da string
+	 * @return : A string gerada
+	 */
 	private static String gerarString(Map<Object, Double> mapa) {
 		String retorno = "{";
 		for (Object key : mapa.keySet()) {

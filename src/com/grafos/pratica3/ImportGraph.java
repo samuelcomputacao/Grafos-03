@@ -2,7 +2,11 @@ package com.grafos.pratica3;
 import java.io.*;
 
 public class ImportGraph <V,E,VP,EP> {
-	// Leitura de Arquivo Texto retornando um StringReader que � entrada para a importa��o de grafos
+	/**
+	 *  Leitura de Arquivo Texto retornando um StringReader que é a entrada para a importação de grafos
+	 * @param filename : caminho do arquivo 
+	 * @return uma string read gerada
+	 */
 	
 	static StringReader readFile (String filename) {
         StringBuilder contentBuilder = new StringBuilder();

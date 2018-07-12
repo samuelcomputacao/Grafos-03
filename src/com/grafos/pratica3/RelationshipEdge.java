@@ -4,9 +4,12 @@ import java.util.Map;
 import org.jgrapht.graph.DefaultEdge;
 import org.jgrapht.io.Attribute;
 
-
+/**
+ * A classe reperesenta uma relacao ou aresta de um grafo
+ * @author samuelpv
+ *
+ */
 public class RelationshipEdge extends DefaultEdge {
-    // Arestas com labels e demais atributos - Grafos N�o-direcionados
 	
 	static final long serialVersionUID = 0;
 	private Object v1;

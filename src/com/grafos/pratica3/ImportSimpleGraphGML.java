@@ -7,10 +7,12 @@ import org.jgrapht.io.ImportException;
 import org.jgrapht.io.VertexProvider;
 
 public class ImportSimpleGraphGML {
-	// Importa Grafo Simples no formato GML com r�tulo nos v�rtices e nas arestas
-
+	/**
+	 * Metodo responsavel por importar um grafo gml
+	 * @param path : Loval onde se encontra o arquivo gml
+	 * @return O grafo importado
+	 */
 	public static  Graph<Object, RelationshipEdge> importar (String path) {
-	    //Gml
 	    VertexProvider <Object> vp1 = 
 	    		(label,attributes) -> new DefaultVertex (label,attributes);
 	    EdgeProvider <Object,RelationshipEdge> ep1 = 
