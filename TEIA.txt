@@ -1,0 +1,3 @@
+O uso da ferramenta "Natural Clusters", da yEd, possibilitou uma melhor vizualização dos grupos (clusters)
+presentes no grafo em questão. Em seguida, foi usado o layout "Circular", possibilitando a visualização 
+de todos os vértices pertencentes a cada grupo, como também como os dois grupos se relacionam.

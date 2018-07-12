@@ -24,7 +24,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 
-		String pathGraph = new File("").getAbsolutePath() + File.separator + "rede.gml";
+		String pathGraph = new File("").getAbsolutePath() + File.separator + "TEIA.gml";
 		String pathSalvamento = new File("").getAbsolutePath() + File.separator;
 
 		Graph<Object, RelationshipEdge> grafo = ImportSimpleGraphGML.importar(pathGraph);
