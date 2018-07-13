@@ -1,0 +1,6 @@
+1 - Não é possível a formação de clusters, pois ao realizar o coeficiente  de cluuster o valor é zero.
+
+2 - As entidades intermediadoras são aquelas que possuem um número de betweennes elevado, ou seja, são elas
+que estão intermediando a maior parte dos caminhos no grafo. Ex : ENGEVIX,UTC, PETROBRAS, ODEBBRECH, QUEIROZ GALVAO, etc.
+
+3 - As entidades mais influentes são aquelas que possuem um menor valor de closeness. Ex : PPL, PHS, PSDC, PMN, PRTB, etc.

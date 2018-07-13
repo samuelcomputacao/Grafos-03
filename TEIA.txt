@@ -1,3 +1,3 @@
-O uso da ferramenta "Natural Clusters", da yEd, possibilitou uma melhor vizualizaÁ„o dos grupos (clusters)
-presentes no grafo em quest„o. Em seguida, foi usado o layout "Circular", possibilitando a visualizaÁ„o 
-de todos os vÈrtices pertencentes a cada grupo, como tambÈm como os dois grupos se relacionam.
+O uso da ferramenta "Natural Clusters", da yEd, possibilitou uma melhor vizualiza√ß√£o dos grupos (clusters)
+presentes no grafo em quest√£o. Em seguida, foi usado o layout "Circular", possibilitando a visualiza√ß√£o 
+de todos os v√©rtices pertencentes a cada grupo, como tamb√©m como os dois grupos se relacionam.
