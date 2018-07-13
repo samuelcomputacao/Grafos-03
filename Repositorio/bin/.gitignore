@@ -1,6 +1,15 @@
 /.classpath
-/.project
-/Aula02-multigrafo.csv
+/nao-isomorficocubo.gml
+/petersen-labelled.gml
+/planar.gml
+/pseudograph-Aula02.gml
+/strongly1.gml
+/strongly2.gml
+/strongly3.gml
+/strongly4.gml
+/teste.csv
+/triangle-inequality.graphml
+/unconnected.gml
 /CompleteGraphDemo$1.class
 /CompleteGraphDemo.class
 /Connectivity.class
@@ -26,7 +35,3 @@
 /StronglyConnected.class
 /TSP.class
 /TourSearch.class
-/strongly4.gml
-/teste.csv
-/triangle-inequality.graphml
-/unconnected.gml
